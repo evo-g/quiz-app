@@ -39,3 +39,8 @@ lib-cov
 .env.production.local
 
 npm-debug.log*
+.DS_Store
+.idea/
+dist
+node_modules
+.cache
